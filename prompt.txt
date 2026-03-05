@@ -1,0 +1,139 @@
+Act as a Senior UI/UX Designer, Swiss Graphic Design Expert, and Modern Academic Brand Strategist.
+
+Design an ULTRA-MODERN, FUTURISTIC, HIGH-END college seminar invitation poster for
+NEHRU MEMORIAL COLLEGE (AUTONOMOUS).
+
+The design must look like a premium Ivy-League + tech conference poster,
+NOT a traditional certificate style.
+
+━━━━━━━━━━━━━━━━━━━━━━
+🎨 VISUAL STYLE
+━━━━━━━━━━━━━━━━━━━━━━
+• Style: Swiss Grid + Glassmorphism + Minimal Tech Conference Poster
+• Mood: Futuristic, clean, confident, academic, innovative
+• Use strong visual hierarchy and asymmetrical layout
+• Plenty of white space with bold contrast sections
+• Add subtle abstract geometric shapes (circles, lines, gradients)
+
+━━━━━━━━━━━━━━━━━━━━━━
+🎨 COLOR SYSTEM (MODERN TECH PALETTE)
+━━━━━━━━━━━━━━━━━━━━━━
+Primary Background: soft gradient (white → very light blue)
+Primary Accent: deep navy blue (#0B1F3A)
+Highlight Accent: metallic gold (#C9A227)
+Modern Accent: electric blue gradient glow (#4A90E2 → #1C6ED5)
+Glass effect cards: translucent white with blur
+
+━━━━━━━━━━━━━━━━━━━━━━
+🧱 LAYOUT COMPOSITION
+━━━━━━━━━━━━━━━━━━━━━━
+Use a clean 12-column grid but with modern asymmetry.
+
+Top Left:
+→ Place the NMC LOGO (uploaded image) and with NEHRU MEMORIAL COLLEGE (AUTONOMOUS)
+
+Top Right:
+→ Place a thin horizontal navigation style line with:
+Autonomous | NAAC A+ | Affiliated to Bharathidasan University
+
+Center Left Big Bold:
+→ Huge modern typography:
+SEMINAR
+(use Montserrat ExtraBold, very large, spaced letters)
+
+Under it smaller modern subtitle:
+“Next-Gen Development:
+AI Assisted Programming Without Coding”
+
+Highlight "AI Assisted Programming" in electric blue gradient.
+
+━━━━━━━━━━━━━━━━━━━━━━
+👤 SPEAKER SECTION (MODERN CARD)
+━━━━━━━━━━━━━━━━━━━━━━
+Right side floating glass card (glassmorphism effect):
+
+• Insert the UPLOADED SPEAKER PHOTO in circular frame
+• Add soft glow around image
+
+Text:
+Ganesan Arunkumar
+Principal Member Technical Staff
+AMD, Hyderabad
+
+Use hierarchy:
+Name bold
+Role medium
+Company small + accent color
+
+━━━━━━━━━━━━━━━━━━━━━━
+📌 INVITATION TEXT (MODERN STYLE)
+━━━━━━━━━━━━━━━━━━━━━━
+Use clean minimal typography:
+
+“The Management, Staff & Students
+of the PG Department of Computer Applications
+cordially invite you to a Technical Seminar”
+
+Keep it left aligned with thin divider line
+
+━━━━━━━━━━━━━━━━━━━━━━
+👥 OFFICIALS SECTION (MODERN GRID)
+━━━━━━━━━━━━━━━━━━━━━━
+Use two glass cards side-by-side:
+
+Card 1:
+Presidential Address
+Er. Pon. Balasubramanian – President
+Shri. Pon. Ravichandran – Secretary
+
+Card 2:
+Felicitation Address
+
+Dr. A. Venkatesan – Principal
+Dr. K. T. Tamilmani – Vice Principal
+Dr. M. Meenakshisundaram Coordinator
+
+━━━━━━━━━━━━━━━━━━━━━━
+🎖 CONVENER
+━━━━━━━━━━━━━━━━━━━━━━
+Minimal centered text with thin line separators:
+
+Convener
+Dr. D. Jayachitra
+Director – MCA
+
+━━━━━━━━━━━━━━━━━━━━━━
+📅 EVENT DETAILS (MODERN FOOTER STRIP)
+━━━━━━━━━━━━━━━━━━━━━━
+Create a bold bottom strip with icons and spacing:
+
+📅 03 March 2026
+⏰ 11:00 AM – 12:30 PM
+📍 Venue ICT Hall
+
+Use icon style outline, evenly spaced
+
+━━━━━━━━━━━━━━━━━━━━━━
+✨ MODERN DESIGN EFFECTS
+━━━━━━━━━━━━━━━━━━━━━━
+• Glassmorphism cards with blur
+• Soft shadows and floating layers
+• Thin gold accent lines
+• Subtle blue glow gradients
+• Micro spacing system
+• Perfect alignment and grid rhythm
+
+━━━━━━━━━━━━━━━━━━━━━━
+🖨 OUTPUT SETTINGS
+━━━━━━━━━━━━━━━━━━━━━━
+• A4 Portrait
+• 300 DPI
+• Ultra clean edges
+• Print + Digital ready
+• High resolution modern academic poster
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+The final design must look like a
+premium international tech conference poster and Professional Design related to topic
+for a top autonomous college in India.
